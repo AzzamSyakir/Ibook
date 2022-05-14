@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "139056072543",
+    "project_id": "ibook-f4882",
+    "storage_bucket": "ibook-f4882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139056072543:android:276c5108783a62b6ced8ea",
+        "android_client_info": {
+          "package_name": "com.example.ibook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139056072543-eb59qm344hlohhtqh10vuqrftp7tc1rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibook",
+            "certificate_hash": "faeedc46440171a83f7dcafeda411b47a42d8b4b"
+          }
+        },
+        {
+          "client_id": "139056072543-qcq3tob8dg7qf1u6p6ddo8afdmftam9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPdeRXZsIFR_SKTME6GSP6iTOsRzk6dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139056072543-qcq3tob8dg7qf1u6p6ddo8afdmftam9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
